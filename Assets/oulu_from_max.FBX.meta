@@ -1093,6 +1093,7 @@ ModelImporter:
     2300710: Tree1.002
     2300712: uusikatu_28
     2300714: water
+    2300716: BLOCK5_BUILDING_3
     3300000: asemakatu2
     3300002: Asemakatu4
     3300004: asemakatu6
@@ -1451,6 +1452,7 @@ ModelImporter:
     3300710: Tree1.002
     3300712: uusikatu_28
     3300714: water
+    3300716: BLOCK5_BUILDING_3
     4300000: cityhallTiling
     4300002: cobblestoneStreet
     4300004: innerCourtyards
@@ -1809,6 +1811,7 @@ ModelImporter:
     4300710: BLOCK6_BULDING5
     4300712: BLOCK6_BULDING6
     4300714: BLOCK6_BULDING7
+    4300716: BLOCK5_BUILDING_3
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -2626,14 +2629,14 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 1
+    isReadable: 0
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 0
+    meshCompression: 2
     addColliders: 0
     importVisibility: 1
-    importBlendShapes: 1
+    importBlendShapes: 0
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
